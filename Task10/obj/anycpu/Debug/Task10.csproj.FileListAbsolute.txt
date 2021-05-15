@@ -1,0 +1,5 @@
+/Users/mgordenko/Projects/02sem_hw_solution/Task10/bin/Debug/Task10.exe
+/Users/mgordenko/Projects/02sem_hw_solution/Task10/bin/Debug/Task10.pdb
+/Users/mgordenko/Projects/02sem_hw_solution/Task10/obj/anycpu/Debug/Task10.csproj.CoreCompileInputs.cache
+/Users/mgordenko/Projects/02sem_hw_solution/Task10/obj/anycpu/Debug/Task10.exe
+/Users/mgordenko/Projects/02sem_hw_solution/Task10/obj/anycpu/Debug/Task10.pdb
